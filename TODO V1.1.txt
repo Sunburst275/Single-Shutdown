@@ -1,0 +1,2 @@
+- Nicer GUI look
+- Possible to set timer beyond 00:00 (to next day)
