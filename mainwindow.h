@@ -80,6 +80,8 @@ private:
     bool *triggerPointer;
 
     bool startEnabled;
+
+    bool triggerTimeBeforeNowTime;
 };
 
 #endif // MAINWINDOW_H
